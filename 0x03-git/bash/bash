@@ -1,0 +1,6 @@
+echo '#!/bin/bash' 
+echo 'ALX School'
+:wq
+q
+
+
